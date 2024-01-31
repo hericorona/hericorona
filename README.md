@@ -1,4 +1,8 @@
 ### Hi there 👋
+Working on Coursework.
+Managing to stay afloat.
+Hanging on to hope.
+ 
 
 <!--
 **hericorona/hericorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
