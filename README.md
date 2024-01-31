@@ -1,6 +1,6 @@
 ### Hi there 👋
-Working on Coursework.
-Managing to stay afloat.
+Working on Coursework.<br>
+Managing to stay afloat.<br>
 Hanging on to hope.
  
 
